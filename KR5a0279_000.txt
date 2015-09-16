@@ -1,7 +1,8 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:44:17.355188
+# -*- mode: mandoku-view -*-
 #+TITLE: 上乘修真三要
-#+PROPERTY: DZID  DZ0267
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—903 一卷 洞真部方法類
+#+DATE: 2015-08-28 23:44:17
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+<md:KR5a0279_HFL_001-001a>¶<pb:KR5a0279_SJB_001-040903c>
+
